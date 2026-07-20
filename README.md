@@ -30,7 +30,7 @@ An img2img prompt library and builder for **Flux Kontext**, **Krea 2**, and simi
 If GitHub Pages is enabled for this repo, the tool is live at:
 
 ```
-https://YOUR-USERNAME.github.io/YOUR-REPO-NAME/prompt-library-v2.html
+
 ```
 
 (See "Enable GitHub Pages" below.)
