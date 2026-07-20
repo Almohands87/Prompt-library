@@ -1,6 +1,6 @@
 # Prompt Workbench
 
-An img2img prompt library and builder for **Flux Kontext**, **Krea 2**, and similar AI image-editing tools — built as a single self-contained HTML file that runs entirely in your browser.
+An img2img prompt library and builder for **Flux 2**, **Krea 2**, and similar AI image-editing tools — built as a single self-contained HTML file that runs entirely in your browser.
 
 ![status](https://img.shields.io/badge/status-active-brightgreen) ![type](https://img.shields.io/badge/type-single--file%20app-blue)
 
@@ -16,7 +16,7 @@ An img2img prompt library and builder for **Flux Kontext**, **Krea 2**, and simi
 
 ## How to use
 
-1. Download `prompt-library-v2.html`
+1. Download `index.html`
 2. Open it in any modern browser (Chrome, Edge, Firefox, Safari) — no install, no server, no dependencies
 3. Browse the **Library** tab, search or filter by tag/category
 4. Click any prompt box to copy it instantly
@@ -27,10 +27,8 @@ An img2img prompt library and builder for **Flux Kontext**, **Krea 2**, and simi
 
 ## Live demo
 
-If GitHub Pages is enabled for this repo, the tool is live at:
-
 ```
-
+https://almohands87.github.io/Prompt-library/
 ```
 
 (See "Enable GitHub Pages" below.)
